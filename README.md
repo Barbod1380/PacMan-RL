@@ -1,6 +1,4 @@
-
-https://github.com/user-attachments/assets/20080c81-08ca-4f65-8e92-7a60b368d2f1
-# Pac-Man Game with Q-Learning
+![PacMan-Demo](https://github.com/user-attachments/assets/48816dc1-11c7-4a9c-9331-93a907a53207)# Pac-Man Game with Q-Learning
 
 ## 🕹️ Overview
 This project implements a simple **Pac-Man game** where the AI agent learns to navigate using **Q-Learning**, a Reinforcement Learning (RL) algorithm. The agent improves its decision-making over time by interacting with the game environment and receiving rewards.
@@ -51,6 +49,6 @@ Q-Learning is a reinforcement learning algorithm that helps the AI learn the bes
 
 
 ## 📷 Demo (Optional)
+![Uploading PacMan-Demo.gif]()
 
-![](https://github.com/user-attachments/assets/5b9e0535-5a86-480a-9c6f-c95ac6d1c60a)
 
