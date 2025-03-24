@@ -49,3 +49,9 @@ Q-Learning is a reinforcement learning algorithm that helps the AI learn the bes
 
 ## 📷 Demo (Optional)
 <img src="https://github.com/user-attachments/assets/48816dc1-11c7-4a9c-9331-93a907a53207" alt="PacMan-Demo" width="500" />
+
+
+## NOTES:
+- First, this Pac-Man version doesn't contain any ghosts (maybe in the future).
+- Second, we train this model many times across 10 different maps. However, since there are 3^12 different states, there will be some states that the model hasn't encountered before, which might lead to incorrect actions. You can increase the model's performance by loading the Q-matrix and training it further (this is just one way to improve the model).
+
