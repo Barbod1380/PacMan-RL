@@ -17,15 +17,6 @@ To run the project, ensure you have Python installed. Then, install the required
 pip install numpy pygame
 ```
 
-## ▶️ Running the Game
-Run the following command to start the game:
-
-```bash
-python main.py
-```
-
-The AI will navigate the Pac-Man environment, attempting to maximize its score using Q-Learning.
-
 ## 🤖 How Q-Learning Works
 Q-Learning is a reinforcement learning algorithm that helps the AI learn the best actions to take in a given state. The core idea is:
 
@@ -47,7 +38,7 @@ Q-Learning is a reinforcement learning algorithm that helps the AI learn the bes
 5. **Repeat the process** until the AI learns optimal actions.
 
 
-## 📷 Demo (Optional)
+## 📷 Demo
 <img src="https://github.com/user-attachments/assets/48816dc1-11c7-4a9c-9331-93a907a53207" alt="PacMan-Demo" width="500" />
 
 
